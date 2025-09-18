@@ -9,6 +9,7 @@ conda activate torch
 pip install --pre torch torchvision torchaudio --index-url https://download.pytorch.org/whl/nightly/cu128
 ```
 #### Verify Installation
+[torch_test.py](torch_test.py)
 ![[torch_test.py]]
 #### Run GPU Test
 ![[gpu_test.py]]
