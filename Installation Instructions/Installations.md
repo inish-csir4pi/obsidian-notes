@@ -10,8 +10,7 @@ pip install --pre torch torchvision torchaudio --index-url https://download.pyto
 ```
 #### Verify Installation
 [torch_test.py](torch_test.py)
-![[torch_test.py]]
 #### Run GPU Test
-![[gpu_test.py]]
+[gpu_test.py](gpu_test.py)
 #### (Optional) Check for cuda-out-of-memory
-![[5070-memory-test.py]]
+[5070-memory-test.py](5070-memory-test.py)
