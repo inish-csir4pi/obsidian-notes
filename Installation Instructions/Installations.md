@@ -1,4 +1,4 @@
-## Pytorch 2.10 Cuda 12.8
+## Pytorch 2.10-Cuda 12.8
 ##### Create New Environment 
 ```bash
 conda create -n torch python=3.11

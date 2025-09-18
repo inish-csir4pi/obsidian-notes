@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Installations.md",
+                "file": "Installation Instructions/Installations.md",
                 "mode": "source",
                 "source": false
               },
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "fcbcdc23dcadcc8f",
@@ -169,16 +169,20 @@
       "bases:Create new base": false
     }
   },
-  "active": "39e7e83fe735d136",
+  "active": "da4a523ce49a8090",
   "lastOpenFiles": [
+    "Installation Instructions/torch_test.py",
+    "Installation Instructions/gpu_test.py",
+    "Installation Instructions/5070-memory-test.py",
+    "Installation Instructions",
+    "Untitled.md",
+    "Installation Instructions/Installations.md",
     "5070-memory-test.py",
     "gpu_test.py",
     "gpu_test 2.py.md",
-    "Installations.md",
     "gpu_test 2.py",
     "torch_test.py",
     "gpu_test 1.py",
-    "Untitled.md",
     "Welcome.md"
   ]
 }
